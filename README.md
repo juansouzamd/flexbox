@@ -10,7 +10,7 @@
 
 ## Gif da página completa:
 
-<p align='center'> <img src='https://raw.githubusercontent.com/juansouzamd/flexbox/master/img/Flexbox.gif'/></p>
+<p align='center'> <img src='https://github.com/juansouzamd/flexbox/blob/master/img/Flexbox.gif'/></p>
 
 
 
